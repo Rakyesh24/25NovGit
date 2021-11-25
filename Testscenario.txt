@@ -1,0 +1,3 @@
+user open  browser go to rediff try to login but failed 
+on login page user click on forgot password then enter secondary or phone then 
+user should pin on seconary pin or phone
